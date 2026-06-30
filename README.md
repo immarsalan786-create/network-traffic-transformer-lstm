@@ -18,6 +18,6 @@ This project classifies network traffic using a deep learning model combining LS
 - F1-Score: [fill after running]
 
 ## Team Members
-- Student 1: [Name]
-- Student 2: [Name]
-- Student 3: [Name]
+- Student 1: [AbuBakr Wali]
+- Student 2: [Niranjan Lal]
+- Student 3: [Muhammad Arsalan Shiekh]
