@@ -1,0 +1,5 @@
+Dataset 1:
+https://www.kaggle.com/datasets/nameera06/network-traffic
+
+Dataset 2:
+https://www.kaggle.com/datasets/dhoogla/cicdarknet2020
