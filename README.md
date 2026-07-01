@@ -27,6 +27,6 @@ This project classifies network traffic using a deep learning model combining LS
 3. Run all cells in order
 
 ## Team Members
-- Student 1: [Abu Bakr Wali cms:63345] - Data Preprocessing
+- Student 1: [Abu Bakar Wali cms:63345] - Data Preprocessing
 - Student 2: [Niranjan Lal cms:63416] - Model Building and Training
 - Student 3: [Muhammad Arsalan Shiekh cms:63753] - Evaluation and Report
