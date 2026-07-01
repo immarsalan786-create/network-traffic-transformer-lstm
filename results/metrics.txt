@@ -1,0 +1,13 @@
+Dataset 1 Results:
+Accuracy : 1.00
+Precision: 1.00
+Recall   : 1.00
+F1-Score : 1.00
+
+Model: Transformer-Enhanced LSTM
+Epochs: 20
+Batch Size: 64
+Train Size: 396458
+Test Size: 99115
+Number of Features: 8
+Number of Classes: 17
